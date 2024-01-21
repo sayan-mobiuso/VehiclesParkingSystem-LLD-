@@ -6,4 +6,7 @@ let uuid = () => {
       ).toString(16)
     );
   };
+  let timeZone = () => user_time_zone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    
+  
   

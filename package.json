@@ -1,0 +1,25 @@
+{
+  "name": "parkinglotchallenge",
+  "version": "1.0.0",
+  "description": "process established in this system\r ===================================",
+  "main": "index.js",
+  "scripts": {
+    "server":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayan-mobiuso/VehiclesParkingSystem-LLD-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayan-mobiuso/VehiclesParkingSystem-LLD-/issues"
+  },
+  "homepage": "https://github.com/sayan-mobiuso/VehiclesParkingSystem-LLD-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
